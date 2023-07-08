@@ -1,0 +1,6 @@
+﻿  ConFPSMaze.cpp
+D:\Visual Studio\source\repos\ConFPSMaze\ConFPSMaze\ConFPSMaze.cpp(21,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio\source\repos\ConFPSMaze\ConFPSMaze\ConFPSMaze.cpp(140,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(734,5): warning MSB8015: All source files are not up-to-date:  forcing a rebuild of all source files due to the contents of 'D:\Visual Studio\source\repos\ConFPSMaze\ConFPSMaze\x64\Debug\ConFPSMaze.tlog\CL.command.1.tlog' being invalid.
+LINK : warning LNK4076: invalid incremental status file 'x64\Debug\ConFPSMaze.ilk' (which will be deleted); linking nonincrementally
+  ConFPSMaze.vcxproj -> D:\Visual Studio\source\repos\ConFPSMaze\x64\Debug\ConFPSMaze.exe
